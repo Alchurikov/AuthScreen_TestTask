@@ -81,7 +81,7 @@ const LoginForm: React.FC<LoginFormProps> = ({ onSuccess }) => {
           }}
         >
           <img
-            src={process.env.PUBLIC_URL + '/_Logo Placeholder.svg'}
+            src="/_Logo Placeholder.svg"
             alt="Company Logo"
             style={{
               height: '24px',
