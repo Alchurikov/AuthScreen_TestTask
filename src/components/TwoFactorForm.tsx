@@ -167,7 +167,7 @@ const TwoFactorForm: React.FC<TwoFactorFormProps> = ({ onSuccess, onBack }) => {
           }}
         >
           <img
-            src="/_Logo Placeholder.svg"
+            src={process.env.PUBLIC_URL + '/_Logo_Placeholder.svg'}
             alt="Company Logo"
             style={{
               height: '24px',
