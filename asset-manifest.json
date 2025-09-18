@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AuthScreen_TestTask/static/css/main.6bd6993a.css",
+    "main.js": "/AuthScreen_TestTask/static/js/main.0982540d.js",
+    "index.html": "/AuthScreen_TestTask/index.html",
+    "main.6bd6993a.css.map": "/AuthScreen_TestTask/static/css/main.6bd6993a.css.map",
+    "main.0982540d.js.map": "/AuthScreen_TestTask/static/js/main.0982540d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bd6993a.css",
+    "static/js/main.0982540d.js"
+  ]
+}
